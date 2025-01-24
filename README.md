@@ -1,0 +1,2 @@
+# bahsnote
+collect bash script
